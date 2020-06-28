@@ -1,0 +1,67 @@
+[{
+  "datas" : [ {
+    "BusID" : "373-FL",
+    "BusStatus" : "255",
+    "RouteID" : "65232",
+    "Longitude" : "121.775856666667",
+    "Latitude" : "24.6782",
+    "DataTime" : "2020-06-28 21:51:54",
+    "sections" : "1"
+  }, {
+    "BusID" : "668-FM",
+    "BusStatus" : "0",
+    "RouteID" : "65331",
+    "Longitude" : "121.364425",
+    "Latitude" : "25.0571283333333",
+    "DataTime" : "2017-05-16 16:19:41",
+    "sections" : "1"
+  }, {
+    "BusID" : "FAB-532",
+    "BusStatus" : "0",
+    "RouteID" : "65062",
+    "Longitude" : "121.374306666667",
+    "Latitude" : "25.0522133333333",
+    "DataTime" : "2020-06-27 16:25:10",
+    "sections" : "1"
+  }, {
+    "BusID" : "100-FX",
+    "BusStatus" : "0",
+    "RouteID" : "3330",
+    "Longitude" : "121.223906",
+    "Latitude" : "24.940646",
+    "DataTime" : "2020-06-28 21:49:20",
+    "sections" : "1"
+  }, {
+    "BusID" : "FAC-309",
+    "BusStatus" : "0",
+    "RouteID" : "65233",
+    "Longitude" : "121.776361666667",
+    "Latitude" : "24.6784133333333",
+    "DataTime" : "2020-06-28 21:51:55",
+    "sections" : "1"
+  }, {
+    "BusID" : "FAB-018",
+    "BusStatus" : "0",
+    "RouteID" : "65115",
+    "Longitude" : "120.686543333333",
+    "Latitude" : "24.1414216666667",
+    "DataTime" : "2020-06-28 21:52:02",
+    "sections" : "1"
+  }, {
+    "BusID" : "FAB-053",
+    "BusStatus" : "0",
+    "RouteID" : "65105",
+    "Longitude" : "121.756143333333",
+    "Latitude" : "24.6700933333333",
+    "DataTime" : "2020-06-26 23:00:22",
+    "sections" : "1"
+  }, {
+    "BusID" : "792-FD",
+    "BusStatus" : "0",
+    "RouteID" : "65531",
+    "Longitude" : "121.313576666667",
+    "Latitude" : "24.9924916666667",
+    "DataTime" : "2015-07-13 12:39:57",
+    "sections" : "1"
+}
+】
