@@ -1,52 +1,47 @@
 [
   {
-    "Id": 1,
-    "TravelName": "bagas",
-    "Address": "Wisma Akr, Jl. Panjang No.5, RT.11/RW.10, Kebon Jeruk, Jakarta Barat",
-    "Latitude": -6.1913,
-    "Longitude": 106.7675,
-    "Open": "10.00-19.00 WIB (Selasa – Minggu)",
-    "Description": "Saat mendengar namanya, mungkin Anda akan salah mengira, karena tempat wisata di Jakarta yang sedang hits ini justru menyimpan beragam karya seni yang memukau. Disingkat dari Museum of Modern and Contemporary Art in Nusantara, Museum MACAN ini merupakan destinasi yang cocok untuk pengagum karya seni baik modern maupun kontemporer.",
-    "Ticket": "Rp 50.000,- (dewasa), Rp 40.000,- (lansia dan pelajar), Rp 30.000,- (anak-anak)"
+    "Name": "典藏羅丹公寓大廈",
+    "Address": "中港路360號",
+    "Latitude": 25.046679,
+    "Longitude": 121.451683,
+    "mainTypeName": "社區",
+    "intro": "食：肯德基、摩斯、麥當勞、五十嵐、全聯社、豆漿店、雞 肉飯及各式小吃、自助餐、火鍋店。\r\n衣：騎車三分鐘至幸福路佳瑪生活館，很好逛，走路也很快到。\r\n住：前有中港派出所，社區外圍屬新莊區中港厝廣場，公所不定期舉辦活動。德川保全24小時保全監控，進出門禁管制。步行至新莊市立體育場約十分鐘。鄰近銀行：台新、中信、玉山。\r\n行:公車257、617、618、622、520、12。未來會有捷運接駁車。\r\n育:週邊有中港圖書館、托兒所、新莊高中。\r\n樂:開車至新莊IKEA店、HOLA、家樂福約十分鐘。",
+    "cityName": "新北市"
   },
   {
-    "Id": 2,
-    "TravelName": "Kota Tua",
-    "Address": "Jl. Taman Fatahillah No.1, RT.7/RW.7, Kota Tua, Pinangsia, Tamansari, Jakarta Barat, Jakarta",
-    "Latitude": -6.1343,
-    "Longitude": 106.8145,
-    "Open": "24 Jam",
-    "Description": "Di sudut kota metropolitan Jakarta ada satu kawasan yang menyimpan nilai historis tinggi tetapi juga jadi tempat wisata hits, Kota Tua namanya. Banyaknya gedung-gedung tua bergaya kolonial yang masih kokoh berdiri memberikan nuansa seolah kembali ke masa lampau. Karenanya Tak heran jika hari libur atau akhir pekan tiba, kawasan ini selalu ramai dipadati pengunjung.",
-    "Ticket": "Rp 20.000"
+    "Name": "新北市新莊區榮和社區",
+    "Address": "景德路81號4樓",
+    "Latitude": 25.034765,
+    "Longitude": 121.452477,
+    "mainTypeName": "社區",
+    "intro": "本社區發展協會於民國81年12月23日經縣政府北府社一字第36501號函奉准籌組；本社區目前人口約4,000人,是屬於商業區和住家混合形態的社區,因位處市中心,居民素質較高。「社區意識」、「社區自主」最近這些年來普遍被社會大眾接受,我們同是社區的一份子,當積極投入個人之力,凝聚眾人之智慧,讓我們的社團邁入一個更新、更好的里程碑。",
+    "cityName": "新北市"
   },
   {
-    "Id": 3,
-    "TravelName": "Taman Mini Indonesia Indah",
-    "Address": "Ceger, Cipayung, Jakarta Timur, DKI Jakarta",
-    "Latitude": -6.3035,
-    "Longitude": 106.8955,
-    "Open": "07.00 – 22.00",
-    "Description": "Berbagai jenis budaya daerah yang ada di tanah air bisa Anda temui di taman ini, seperti  rumah-rumah adat. Tak hanya itu, di kawasan taman tersebut juga berdiri lebih dari belasan museum, puluhan taman dengan tema yang atraktif, gedung teater hingga taman bermain seru.",
-    "Ticket": "Rp 50.000"
+    "Name": "江陵世紀",
+    "Address": "中安街7-3號",
+    "Latitude": 25.0464267,
+    "Longitude": 121.452824,
+    "mainTypeName": "社區",
+    "intro": "計畫經費：168,600元 \r\n辦理時程：2010年12月 \r\n參加人員：全校學生 \r\n辦理內容：由老師帶領美勞教學的學生創作作品。再由教務處主任邀請學校老師，選出其中14件，將 其掃描輸出，完成後掛置在操場西側入口處。另外挑選5幅較生動的運動圖案，懸掛在風 雨操場的北側。 \r\n活動理念：1.指導學生創作，塑造藝術展覽主題之教學環境。 2.配合風雨操場體育教學之需求與素材，及學校推動之各項體育教學課程，挑選相關之簡 易運動圖案，布置於風雨操場之鋼柱上，一則美化風雨操場；二則提升體育教學功能。 \r\n作品名稱：1.我生氣了；2.夢之旅；3.白象傳奇；4.漁販；5.神奇發泡機；6.我的觀察記錄；7.惡獸之 戰；8.自然觀察；9.冷光之城；10.哇！魔法瓶；11.上自然課真有趣；12.白鳥森林探險； 13.奇幻森林；14.看煙火 作者：1.吳曜廷；2.吳曜宇；3.劉智瀚；4.王芷翎；5.莊子儀；6.曾艷蓁；7.謝宜庭；8.易芷婕；9.林冠 瑜；10.陳姵安；11.顏志翰；12.施晉楷；13.張菁；14.陳奕安。 \r\n尺寸：75×60cm ，共14件 \r\n材質：電腦掃描輸出、外罩壓克力板 \r\n設置位置：風雨操場西側鐵網圍籬上",
+    "cityName": "新北市"
   },
   {
-    "Id": 4,
-    "TravelName": "Taman Impian Jaya Ancol",
-    "Address": "Jalan Lodan Timur No.7, RW.10, Kota Tua, Ancol, Pademangan, Kota Jakarta Utara, DKI Jakarta",
-    "Latitude": -6.1248,
-    "Longitude": 106.8423,
-    "Open": "24 Jam",
-    "Description": "Destinasi wisata ini merupakan sebuah kawasan wisata terpadu yang dilengkapi dengan ragam fasilitas bertaraf internasional dengan luas area hingga 552 hektar. Termasuk di dalamnya terdapat taman hiburan, wisata pantai, wisata kulibner, lapangan golf, cottages hingga hotel berbintang.",
-    "Ticket": "Rp 30.000"
+    "Name": "新莊慈祐宮",
+    "Address": "新莊路218號",
+    "Latitude": 25.0343760288719,
+    "Longitude": 121.452882468271,
+    "mainTypeName": "文化資產",
+    "intro": "關於慈祐宮的創建年代，有許多說法。最早的為《臺灣通史》，稱其建於康熙二十五年（1686），曰天后宮，余文儀的《續修臺灣府志》則記為雍正九年（1731），《淡水廳志》的記載更晚，為乾隆十八年（1753）。然而依據廟中所嵌碑文之記載，同治十二年（1873）所立的《重修慈祐宮碑記》中所述的年代明確記載「慈祐宮者當雍正七年闢是地即建是宇」。而乾隆四十四年（1779）所立的《重修慈祐宮碑記》，有「新庄置宮顏曰慈祐始于前乾隆十八年（1753）」的記載。兼之以廣福宮中乾隆十五年（1750）《奉兩憲示禁碑》中記載「乘十三年（1748）火災新直街（新莊街）」推斷，慈祐宮至晚應於雍正七年（1729）已經修建，但於乾隆十三年（1748）因新莊街發生火災而被焚燬，故而於乾隆十八（1753）年時重建，同時改天后宮為「慈祐宮」。\r\n據此，可以推斷慈祐宮為新莊沿河三廟（慈祐宮、廣福宮、武聖廟）中最早建立的，亦為新莊地區最古老的廟宇，為臺北地區僅次於關渡宮的第二古老媽祖廟。\r\n之後於乾隆四十二年（1777）新莊巡檢曾應蔚、嘉慶十八年（1813）新莊縣丞曹汝霖曾兩次倡捐，先後進行二次的大規模重修，而後者進行重修時，尚用修建所剩的餘款另外為原本配祀於慈祐宮的文昌帝君，獨立建祠，為新莊文昌祠建立之始。其後又分別於光緒元年（1875）、日治昭和二年（1927）、昭和十一年（1936）、民國五十四年陸續進行修建，奠定今日所見的規模。\r\n鑑於乾隆十三年（1748）的新莊街大火，天后宮亦遭波及，因此在乾隆十八年（1753）所發起的重建，同時在開山殿後面開闢池塘，以為鎮火救災之用，由於當時新莊街以北尚無建築物，池水倒映觀音山影，時人謂之「美人照鏡」、「倒照觀音」，為昔日新莊八景之一。",
+    "cityName": "新北市"
   },
   {
-    "Id": 5,
-    "TravelName": "Tugu Monumen Nasional",
-    "Address": "Gambir, Jakarta Pusat, DKI Jakarta",
-    "Latitude": -6.1756,
-    "Longitude": 106.8272,
-    "Open": "07.00-00.00 (Setiap Hari)",
-    "Description": "Dengan menjelajahi setiap sudut Monas, Anda akan diajak mengenal bagaimana perjalanan sejarah masa demi masa bangsa Indonesia hingga masa modern secara singkat namun cukup atraktif. Jika Anda ingin melihat kota Jakarta lebih jelas, maka Anda bisa naik ke bagian puncak monumen yang memiliki ketinggian lebih dari 100 meter tersebut. Tak perlu takut kelelahan sebab ada lift dengan kapasitas 11 orang yang bisa membawa Anda ke puncak tertinggi Monas.",
-    "Ticket": "Rp 20.000"
+    "Name": "藝啟開心．心中有你",
+    "Address": "中正路437號",
+    "Latitude": 25.02507,
+    "Longitude": 121.454084,
+    "mainTypeName": "公共藝術",
+    "intro": "2009年---最開心的一年，因為德馨樓的完工啟用，開啟了板橋國中新的紀元。獨樂樂不如與眾樂樂，施工忠昊與板橋國中全體師生，一同創作「藝啟開心，心中有你」公共藝術。\r\n此一作品融合了16張板橋國中老照片及70年代板中體操少女的身影，穿越了板橋國中歷史的長廊。而全校師生與藝術家的集體創作及藝術家美學的表現，不僅活化了空間等多面向的元素，也再度呈現板中人超越時空的向心力與凝聚力。\r\n審美是人與生俱來的本能，判斷美與醜並不需要透過一種社會約定成俗的規範，誠實的面對人的本質就會產生美麗的事物，而公共藝術的創作自必提升藝術教育的層次和全校師生的心。",
+    "cityName": "新北市  板橋區(板橋市)"
   }
 ]
